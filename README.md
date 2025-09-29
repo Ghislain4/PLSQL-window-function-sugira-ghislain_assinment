@@ -67,3 +67,4 @@ Step 7: References
 8.	Harvard Business Review — Customer Segmentation & Targeting.
 9.	StackOverflow DBA-tag Q&A.
 10.	Oracle Blog — Performance of Analytic Functions.
+
