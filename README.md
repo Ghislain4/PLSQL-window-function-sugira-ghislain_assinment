@@ -1,0 +1,1 @@
+# PLSQL-window-function-sugira-ghislain_assinment
